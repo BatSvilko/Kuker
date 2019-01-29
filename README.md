@@ -2,7 +2,7 @@
 Here you can check out Arduino code for controlling Adafruit Neopixel Rings with Arduino
 
 ## Introduction
-This project is about giving life to the traditional masks called Kuker. They are used in Bulgarian tradition to repel evil ghosts and bad energies. Similar traditions and masks exist in all cultures around the world. The main guide how to make it run will appear soon at my blog at http://svilen.info/.
+This project is about giving life to the traditional masks called Kuker. They are used in Bulgarian tradition to repel evil ghosts and bad energies. Similar traditions and masks exist in all cultures around the world. The main guide exemplifying this code usage is at my blog at http://www.svilen.info/index.php/computer-science/computer-science-blog/140-the-kuker-revival
 
 ## Structure
 * Neopixel - the code you'll need to run on your NeoPixel arduino
